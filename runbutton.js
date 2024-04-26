@@ -3,7 +3,7 @@ const runButton = document.getElementById('run')
 const OFFSET = 30
 
 runButton.addEventListener('click', () => {
-  alert('Nice Try')
+  alert('Nice Try but still the plan is On')
   //window.close()
 })
 
