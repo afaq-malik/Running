@@ -3,7 +3,7 @@ const runButton = document.getElementById('run')
 const OFFSET = 30
 
 runButton.addEventListener('click', () => {
-  alert('Nice Try next task please')
+  alert('Nice Try -- Next Task please')
   //window.close()
 })
 
